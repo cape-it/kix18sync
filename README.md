@@ -106,7 +106,7 @@ shell> sudo yum install libtext-csv-perl
 ```
 - Ubuntu/Debian
 ```
-shell> sudo apt install perl-Text-CSV
+shell> sudo apt install libtext-csv-perl libconfig-simple-perl librest-client-perl
 ```
 
 
